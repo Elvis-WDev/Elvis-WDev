@@ -9,7 +9,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg">
-		<img src="https://elvismacas.site/assets/images/main-img2.jpg">
+		<img src="https://elvismacas.site/assets/images/main-img2.jpg" width="200px">
 	</a>
 </p>
 
