@@ -29,39 +29,20 @@ Mi nombre es <a href="https://elvismacas.site/">Elvis Macas</a> y soy studiante 
 ### 🧰 Frameworks y Librerías
 
 <p>
-	<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+	<a href="https://elvismacas.site/"><img alt="Frameworks" src="https://skillicons.dev/icons?i=bootstrap,jquery,laravel,materialui,react,redux,sass,wordpress,yarn,vite,tailwind,npm"></a>
     
 </p>
 
 ### 🗄️ Gestores BD y Hosting
 
 <p>
-	<a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
-	<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    	<a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    	<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    	<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-   	<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    	<a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+	<a href="https://elvismacas.site/"><img alt="SGBD" src ="https://skillicons.dev/icons?i=postgres,mysql,mongodb,heroku,gcp,firebase,codepen"></a>
 </p>
 
 ### 🔧 Software, Tecnologías y herramientas
 
 <p>
-	<a href="#"><img alt="OS-Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=linux&logoColor=white"></a>
-    	<a href="#"><img alt="IDE-Pycharm" src="https://img.shields.io/badge/-PyCharm-0000CC?logo=pycharm&logoColor=white"></a>
-    	<a href="#"><img alt="IDE-Visualstudio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    	<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-000000.svg?logo=microsoftsqlserver&logoColor=white"></a>
-	<a href="#"><img alt="Gitbash" src="https://img.shields.io/badge/Gitbash-DD1100.svg?logo=github&logoColor=white"></a>
-    	<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-	<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-	<a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a>	
-	<a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2b%2b&logoColor=black"></a>	
-	<a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"></a>
-	<a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
-	<a href="#"><img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white"></a>
- 
+	<a href="https://elvismacas.site/"><img alt="Tools" src="https://skillicons.dev/icons?i=linux,androidstudio,arduino,git,github,kali,netlify,nginx,ps,postman,powershell,pr,pycharm,stackoverflow,sublime,ubuntu,vscode,windows,xd"></a> 
 
 </p>
 
