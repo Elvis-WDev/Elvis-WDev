@@ -2,30 +2,21 @@
 <h1 align="center">
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	Hola, bienvenido a mi perfil
-	<img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="30">
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg">
-		<img src="https://elvismacas.site/assets/images/main-img2.jpg" width="200px">
+		<img src="https://camo.githubusercontent.com/df714617513190042ea38c3ec7d742af51d29d5a5702829ba777a49bb3195d70/68747470733a2f2f692e696d6775722e636f6d2f564e50327454782e676966" width="200px">
 	</a>
 </p>
 
-<!-- Social badges section -->
-<p align="center">
-	<a href="https://github.com/thenomaniqbal/"><img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Profile%20Views&color=red&style=for-the-badge"/></a>
-	<a href="https://github.com/thenomaniqbal?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/thenomaniqbal"/></a>
-  	<a href="https://github.com/thenomaniqbal?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/thenomaniqbal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-	
-</p>
-<!--<img src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Profile%20Views&color=blue&style=plastic" align='right' alt="thenomaniqbal" />
-<!--<img src="https://gpvc.arturio.dev/thenomaniqbal" alt="Profile views" align='right'/> <a href="https://github.com/thenomaniqbal/thenomaniqbal"> </a>-->
 <hr/>
 
 <!-- Introduction -->
-My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/) and I'm a Software Engineer/Data Scientist. I'm from Pakistan, living in Islamabad, and currently pursuing a master's degree in Data Science. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am deeply in love with Artificial Intelligence, Machine Learning, and Data Science.
+Estudiante de 3° ciclo de ingeniería de software y 5 años de constante aprendizaje autónomo. Estudié Tencología superior en el desarrollo de software en el instituto superior tecnológico José Ochoa León, luego seguí mi aprendizaje mediante recursos online como Udemy, PLatzy y docs oficiales.
 
 ## 🔥 Streak Stats
 
