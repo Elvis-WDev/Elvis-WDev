@@ -20,7 +20,7 @@ Mi nombre es <a href="https://elvismacas.site/">Elvis Macas</a> y soy studiante 
 
 ## 🔥 Habilidades
 
-### 💻 Programming Languages
+### 💻 Lenguajes de programación
 
 <p>
 	<a href="https://elvismacas.site/"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
@@ -43,7 +43,7 @@ Mi nombre es <a href="https://elvismacas.site/">Elvis Macas</a> y soy studiante 
     
 </p>
 
-### 🗄️ Databases and cloud hosting
+### 🗄️ SGBD, Hosting, Vps
 
 <p>
 	<a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
