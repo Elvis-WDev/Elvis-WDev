@@ -2,68 +2,45 @@
 <h1 align="center">
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	Hola, bienvenido a mi perfil
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFoZ24zeDIya2dhMDc5MDV6emswbG94YW9kNHprYWduaGR5eXlyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" width="30">
 </h1>
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg">
-		<img src="https://camo.githubusercontent.com/df714617513190042ea38c3ec7d742af51d29d5a5702829ba777a49bb3195d70/68747470733a2f2f692e696d6775722e636f6d2f564e50327454782e676966" width="200px">
+		<img src="https://camo.githubusercontent.com/df714617513190042ea38c3ec7d742af51d29d5a5702829ba777a49bb3195d70/68747470733a2f2f692e696d6775722e636f6d2f564e50327454782e676966">
 	</a>
 </p>
 
 <hr/>
 
 <!-- Introduction -->
-Estudiante de 3° ciclo de ingeniería de software y 5 años de constante aprendizaje autónomo. Estudié Tencología superior en el desarrollo de software en el instituto superior tecnológico José Ochoa León, luego seguí mi aprendizaje mediante recursos online como Udemy, PLatzy y docs oficiales.
+Mi nombre es <a href="https://elvismacas.site/">Elvis Macas</a> y soy studiante de 3° ciclo de ingeniería de software y 5 años de constante aprendizaje autónomo. Estudié Tencología superior en el desarrollo de software en el instituto superior tecnológico José Ochoa León, luego seguí mi aprendizaje mediante recursos online como Udemy, PLatzy y docs oficiales.
 
-## 🔥 Streak Stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Noman Iqbal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thenomaniqbal&theme=monokai-metallian&hide_border=true"/></a>
-<p align="center"> If you can dream it, you can do it🔥 </p>
-</p>
-
-## 🛠️ My Favorite Tools
-
+## 🔥 Habilidades
 
 ### 💻 Programming Languages
 
 <p>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3R"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?logo=r&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Latex"><img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
- 	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+	<a href="https://elvismacas.site/"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+	<a href="https://elvismacas.site/"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+	<a href="https://elvismacas.site/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+	<a href="https://elvismacas.site/"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+	<a href="https://elvismacas.site/"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+	<a href="https://elvismacas.site/"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+	<a href="https://elvismacas.site/"><img alt="Java" src="https://img.shields.io/badge/java%20-%2314354C.svg?logo=java&logoColor=white"></a>
+	
+ 	
+	
 
 </p>
 
-### 🧰 Frameworks and Libraries
+### 🧰 Frameworks y Librerías
 
 <p>
-	<a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black"></a>
-	<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    	<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    	<a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?logo=plotly&logoColor=white"></a>
-	<a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit%20Learn-%2320232a.svg?logo=scikitlearn&logoColor=%2361DAFB"></a>
-	<a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white"></a>
-	<a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-	<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    	<a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-E8E8E8?logo=pytorch&logoColor=black"></a>
-	<a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
 	<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    	<a href="#"><img alt="Asp.net MVC" src="https://img.shields.io/badge/Dot%20Net-21759B?logo=dotnet&logoColor=white">
-	<a href="#"><img alt="RubyOnRails" src="https://img.shields.io/badge/Ruby%20On%20Rails-20232e.svg?logo=rubyonrails&logoColor=white"></a>
-    	<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+    
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -78,21 +55,13 @@ Estudiante de 3° ciclo de ingeniería de software y 5 años de constante aprend
     	<a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
-### 🔧 Software, Technologies and tools
+### 🔧 Software, Tecnologías y herramientas
 
 <p>
 	<a href="#"><img alt="OS-Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=linux&logoColor=white"></a>
     	<a href="#"><img alt="IDE-Pycharm" src="https://img.shields.io/badge/-PyCharm-0000CC?logo=pycharm&logoColor=white"></a>
     	<a href="#"><img alt="IDE-Visualstudio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    	<a href="#"><img alt="SPSS" src="https://img.shields.io/badge/-SPSS-FB542B?logo=ibm&logoColor=white"></a>
     	<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-000000.svg?logo=microsoftsqlserver&logoColor=white"></a>
-    	<a href="#"><img alt="Tobii Pro Lab" src="https://img.shields.io/badge/Tobii%20Pro-00b56a.svg?logo=eyeem&logoColor=white"></a>
-    	<a href="#"><img alt="PDP-Anaconda" src="https://img.shields.io/badge/-Anaconda-141E24?logo=anaconda&logoColor=white"></a>
-    	<a href="#"><img alt="VIDE-JupyterNotebook" src="https://img.shields.io/badge/Jupyter%20NoteBook-F37626.svg?logo=Jupyter&logoColor=white"></a>
-	<a href="#"><img alt="Tech-MachineLearning" src="https://img.shields.io/badge/Machine%20Learning-F05033.svg?logo=git&logoColor=white"></a>
-    	<a href="#"><img alt="Tech-DataScience" src="https://img.shields.io/badge/Data%20Science-18A497?logo=teradata&logoColor=white"></a>
-    	<a href="#"><img alt="Tech-DataMining" src="https://img.shields.io/badge/Data%20Mining-FF6C37?logo=teradata&logoColor=white"></a>
-	<a href="#"><img alt="Tech-ComputerVision" src="https://img.shields.io/badge/Computer%20Vision-3DDC84?logo=teradata&logoColor=white"></a>
 	<a href="#"><img alt="Gitbash" src="https://img.shields.io/badge/Gitbash-DD1100.svg?logo=github&logoColor=white"></a>
     	<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
 	<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
@@ -106,62 +75,6 @@ Estudiante de 3° ciclo de ingeniería de software y 5 años de constante aprend
 
 </p>
 
-
----
- 
- <p>
-  <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="200" />
-</p>
-
-## <img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/rockstar.gif" width="40px"> Boy Scout Rule 🏍️
-
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boy scout rule.  I contribute to things as I come across issues that I think other people might struggle with.  These may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with a good example. Moreover, I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
-
-## &#x270d; Blog & Writing 📕
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [nomaniqbal.epizy.com](http://nomaniqbal.epizy.com/) as well as on [Hashnode](https://nomaniqbal.hashnode.dev/).
-
-A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [Why Learn Python? Five Reasons to Start Programming With Python in 2022](https://nomaniqbal.hashnode.dev/why-learn-python-five-reasons-to-start-programming-with-python-in-2022)
-- [Why does Python run slower than C?](https://nomaniqbal.hashnode.dev/why-does-python-run-slower-than-c)
-<!-- BLOG-POST-LIST:END -->
-
-## &#x1f4c8; Github stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details>
-	<summary>💻 GitHub Profile Stats</summary>
-	<br/>
-	<a href="https://github.com/thenomaniqbal/thenomaniqbal"><img alt="NomanIqbal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thenomaniqbal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  height="188px"/></a>
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NomanIqbal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenomaniqbal&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="188px"/></a>
-  <br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-<details>
-	<summary>⚡ Top GitHub Directories</summary>
-	<br/>
-	<a href="https://github.com/thenomaniqbal/thenomaniqbal"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=thenomaniqbal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/LinearRegression-HousePricePrediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=LinearRegression-HousePricePrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/LogisticRegression-BreastCancerDS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=LogisticRegression-BreastCancerDS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/LinearRegression-GradesPrediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=LinearRegression-GradesPrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/Diabetes-prediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=Diabetes-prediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-</details>
-
-<details>
-<summary>💡 Profile visitors</summary>
-<p align="center">:round_pushpin: Profile visitors</p>
-<div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/thenomaniqbal/count.svg">
-</div>
-</details>
-
-
-<!--- ## ✡️ Stargazers 👇
-
-[![Stargazers repo roster for @thenomaniqbal/thenomaniqbal](https://reporoster.com/stars/thenomaniqbal/thenomaniqbal)](https://github.com/thenomaniqbal/thenomaniqbal/stargazers) -->
 
 ## 🙋‍♂️ Let's Connect
 <div align="center">
