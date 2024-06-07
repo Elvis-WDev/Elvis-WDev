@@ -16,7 +16,7 @@
 <hr/>
 
 <!-- Introduction -->
-Mi nombre es <a href="https://elvismacas.site/">Elvis Macas</a> y soy studiante de 3° ciclo de ingeniería de software y 5 años de constante aprendizaje autónomo. Estudié Tencología superior en el desarrollo de software en el instituto superior tecnológico José Ochoa León, luego seguí mi aprendizaje mediante recursos online como Udemy, PLatzy y docs oficiales.
+Mi nombre es <a href="https://elvismacas.site/">Elvis Macas</a> y soy estudiante de 3° ciclo de ingeniería de software y 5 años de constante aprendizaje autónomo. Estudié Tecnología superior en el desarrollo de software en el instituto superior tecnológico José Ochoa León, luego seguí mi aprendizaje mediante recursos online como Udemy, PLatzy y docs oficiales.
 
 ## 🔥 Habilidades
 
