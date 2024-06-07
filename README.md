@@ -43,7 +43,7 @@ Mi nombre es <a href="https://elvismacas.site/">Elvis Macas</a> y soy studiante 
     
 </p>
 
-### 🗄️ SGBD, Hosting, Vps
+### 🗄️ Gestores BD y Hosting
 
 <p>
 	<a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
