@@ -23,17 +23,7 @@ Mi nombre es <a href="https://elvismacas.site/">Elvis Macas</a> y soy studiante 
 ### 💻 Lenguajes de programación
 
 <p>
-	<a href="https://elvismacas.site/"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-	<a href="https://elvismacas.site/"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-	<a href="https://elvismacas.site/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-	<a href="https://elvismacas.site/"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-	<a href="https://elvismacas.site/"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-	<a href="https://elvismacas.site/"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-	<a href="https://elvismacas.site/"><img alt="Java" src="https://img.shields.io/badge/java%20-%2314354C.svg?logo=java&logoColor=white"></a>
-	
- 	
-	
-
+	<a href="https://elvismacas.site/"><img alt="Languages" src="https://skillicons.dev/icons?i=html,css,js,php,py,java"></a>
 </p>
 
 ### 🧰 Frameworks y Librerías
