@@ -1,6 +1,6 @@
 <!-- Encabezado de bienvenida con animación -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Elvis+Macas;Desarrollador+de+Software+Full+Stack;Apasionado+por+el+aprendizaje+constante;Bienvenido+a+mi+GitHub!+💻" />
+ Desarrollador de software Fullstack
 </h1>
 
 <!-- Imagen tipo peluche -->
