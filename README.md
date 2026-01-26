@@ -74,14 +74,6 @@
 
 ---
 
-## 🏆 Trofeos de GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Elvis-WDev&theme=onedark&row=2&column=4" />
-</p>
-
----
-
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
