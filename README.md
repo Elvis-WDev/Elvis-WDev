@@ -1,6 +1,6 @@
 <!-- Encabezado de bienvenida con animación -->
 <h1 align="center">
- Desarrollador de software Fullstack
+ Desarrollador de software
 </h1>
 
 <!-- Imagen tipo peluche -->
@@ -12,13 +12,13 @@
 
 ## 👨‍💻 Sobre mí
 
-🎓 Estudiante de **Ingeniería de Software** (3° ciclo)  
+🎓 Estudiante de **Ingeniería de Software** (6° ciclo)  
 📚 5 años de **aprendizaje autónomo**  
 💡 Formación técnica: Instituto **José Ochoa León**  
-🧠 Apasionado por el aprendizaje en: **Platzi**, **Udemy**, **Ed Team**, **Documentación oficial**  
+🧠 Apasionado por el aprendizaje en: **Platzi**, **Udemy**, **Ed Team** 
 
 🌍 Portafolio: [elvismacas.com](https://elvismacas.com)  
-📍 Santa Rosa, Ecuador  
+📍 Ecuador  
 
 ---
 
